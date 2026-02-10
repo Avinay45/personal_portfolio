@@ -15,7 +15,7 @@ function Hero() {
         </p>
 
         <a
-          href="https://portfolio-backend.onrender.com"
+          href="https://portfolio-backend.onrender.com/resume"
           className="btn"
           target="_blank"
           rel="noreferrer"
