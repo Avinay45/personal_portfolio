@@ -9,7 +9,10 @@ function Navbar() {
           <a href="#projects">Projects</a>
           <a href="#skills">Skills</a>
           <a href="#contact">Contact</a>
-          <a href="http://127.0.0.1:8000/resume" target="_blank">
+          <a
+            href="https://lively-curiosity-production-ffca.up.railway.app/resume"
+            target="_blank"
+          >
             Resume
           </a>
         </div>
