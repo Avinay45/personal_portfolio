@@ -15,7 +15,7 @@ function Hero() {
         </p>
 
         <a
-          href="https://portfolio-backend.onrender.com/resume"
+          href="https://lively-curiosity-production-ffca.up.railway.app/resume"
           className="btn"
           target="_blank"
           rel="noreferrer"
