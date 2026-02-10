@@ -15,7 +15,7 @@ function Hero() {
         </p>
 
         <a
-          href="http://127.0.0.1:8000/resume"
+          href="https://portfolio-backend.onrender.com"
           className="btn"
           target="_blank"
           rel="noreferrer"
