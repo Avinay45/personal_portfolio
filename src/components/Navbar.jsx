@@ -10,7 +10,7 @@ function Navbar() {
           <a href="#skills">Skills</a>
           <a href="#contact">Contact</a>
           <a
-            href="https://lively-curiosity-production-ffca.up.railway.app"
+            href="https://worthy-creation-production-5caf.up.railway.app/resume"
             target="_blank"
           >
             Resume
